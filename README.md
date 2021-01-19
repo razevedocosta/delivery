@@ -1,7 +1,6 @@
 Sistema para controle de pedidos (delivery de frutas)
 Desenvolvido em linguagem PHP com HTML, CSS, JAVASCRIPT
 
-![](https://github.com/razevedocosta/delivery/blob/master/files/img/cad-pedidos.png)
 ![](https://github.com/razevedocosta/delivery/blob/master/files/img/rel-itens.png)
 
 **Funcionalidades**
@@ -12,7 +11,7 @@ Desenvolvido em linguagem PHP com HTML, CSS, JAVASCRIPT
 - relatórios de pedidos por cliente
 - espelho do pedido
 - cálculo do pedido de acordo com a seleção do produto
-- listagem de produtos a serem comprados (quantidade e peso)
+- listagem de produtos a serem comprados (quantidade, peso e valor)
 
 **Melhorias (a fazer)**
 - indicar o endereço do cliente no mapa
